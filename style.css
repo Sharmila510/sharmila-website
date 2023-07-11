@@ -1,0 +1,45 @@
+.pic{
+   width:100%;
+   border:8px;
+   border-color: #9e90cf;
+   border-style: solid;
+   border-radius: 13px;
+   text-align: center;
+ }  
+
+.para{
+    font-size: 15px;
+    font-family: Roboto;
+    line-height: 24px;
+    text-indent: 50px;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+   
+}
+body{
+    background-color: rgb(208, 162, 250);
+    padding:50px;
+   padding-bottom: 30%;
+}
+.header1{
+     color: purple;
+     text-align: center;
+}
+
+.total{
+  display:grid;
+  grid-template-columns: 350px 1fr;
+  margin-top: 30px;
+    height: 200px;
+  column-gap: 20px;
+  row-gap: 20px;
+}
+
+
+
+
+
+
+
+ 
